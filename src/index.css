@@ -1,0 +1,36 @@
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Font Light */
+@font-face {
+  font-family: HelveticaLight;
+  src: url(../src/assets/fontFamily/Helvetica_Neue_Light/Helvetica_Neue_Light.woff);
+}
+/* Font 400 */
+@font-face {
+  font-family: HelveticaRegular;
+  src: url(../src/assets/fontFamily/Helvetica_Neue_Regular/Helvetica_Neue_Regular.woff);
+}
+/* Font 500, 600 */
+@font-face {
+  font-family: HelveticaMedium;
+  src: url(../src/assets/fontFamily/Helvetica_Neue_Medium_Bold/Helvetica_Neue_Medium_Bold.woff);
+}
+/* Font 700 */
+@font-face {
+  font-family: HelveticaBold;
+  src: url(../src/assets/fontFamily/Helvetica_Neue_Bold/Helvetica_Neue_Bold.woff);
+}
+/* Font Bold Outline */
+@font-face {
+  font-family: HelveticaNeueOutline;
+  src: url(../src/assets/fontFamily/Helvetica_Neue_Bold_Outline/Helvetica_Neue_Bold_Outline.woff);
+}
+/* Font Extra Bold */
+@font-face {
+  font-family: HelveticaExtraBold;
+  src: url(../src/assets/fontFamily/Helvetica_Neue_Extra_Bold/Helvetica_Neue_Extra_Bold.woff);
+}

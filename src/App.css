@@ -1,0 +1,13 @@
+.headerBarr {
+    background-image: url("./assets/Header/headerBg.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent !important;
+    z-index: 9999;
+}
+
+.headerBarr a {
+    text-decoration: none;
+}
+
